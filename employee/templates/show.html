@@ -23,7 +23,7 @@
             {% for employee in employees %}
             <tr>
                 <td>{{ employee.eid }}</td>
-                <td>{{ employee.ename }}</td>
+                <td>{{ employee.ename | title }}</td>
                 <td>{{ employee.eemail }}</td>
                 <td>{{ employee.econtact }}</td>
                 <td>
