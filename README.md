@@ -20,38 +20,38 @@ or directly you can navigate to the project folder by using terminal commands or
 5. Go to this location 'http://localhost/phpmyadmin' in your browser to <em>create a new database</em> in phpmyadmin for your project. Create a new database and set the same name as database in Django settings file to use mysql as your database client for this project. (Django comes with <em>sqlite3</em> as a default database)
 
     Under project folder, Go to this location <em>Project-folder/settings.py</em> (in my case - <em>crudexample/settings.py</em>) - scroll down and set the variables of <strong>'DATABASES'</strong>. <br>
-    <strong>'ENGINE'</strong> is already set to mysql. Now set your system defined mysql credentials - <strong>'USER', 'PASSWORD' & 'NAME'</strong>. <em>'NAME'</em> will define database name here.
+    <strong>'ENGINE'</strong> is already set to mysql. Now set your system defined mysql credentials - <strong>'USER', 'PASSWORD' & 'NAME'</strong>. <em>'NAME'</em>n will define database name here.
 
 6. Now run these commands in your windows cmd or linux terminal -
 
-    python3 -m pip install --upgrade pip
-    <br>pip install django
-    <br>pip install mysqlclient
-    <br>python3 -m pip install mysql-connector
+    <em>python3 -m pip install --upgrade pip</em>
+    <br><em>pip install django</em>
+    <br><em>pip install mysqlclient</em>
+    <br><em>python3 -m pip install mysql-connector</em>
 
     It will upgrade pip (if your pip version is old), install Django, install mysql-client or python-mysql connectivity. 
 
-7. Run these commands in terminal to update mysql database to set-up it for Django - 
-python3 manage.py makemigrations
-python3 manage.py migrate
+7. Run these commands in terminal to update mysql database with Django - 
+    <br><em>python3 manage.py makemigrations</em>
+    <br><em>python3 manage.py migrate</em>
 
-8. Run this command in terminal "python3 manage.py runserver" to initialize localhost. It will create a localhost server with any random port. i.e. 80*
-If you are using Windows OS then use "python manage.py runserver" command in cmd.
+8. Run this command in terminal <strong>python3 manage.py runserver</strong> to initialize localhost. It will create a localhost server with any random port. i.e. 80*
+If you are using Windows OS then use <em>python manage.py runserver</em> command in cmd.
 
 9. Right click and open the localhost path http://127.0.0.1:8000/ 
    Sometimes port can be changed but it will be similar to 80*. this will open and run the project in a browser window.
 
-10. Terminate the localhost by pressing ctrl+c in terminal window.
+10. To quit or terminate the localhost, press <strong>ctrl+c</strong> in terminal window.
 
-11. You can access the admin panel by appending '/admin' keyword in localhost url like:- http://127.0.0.1:8000/admin/
+11. You can access the admin panel by appending <em>/admin</em> keyword in localhost url like:- http://127.0.0.1:8000/admin/
 
 # <h4>Support</h4>
 
-To download and install Python - https://www.python.org/downloads/
-<br>Python documentation - https://docs.python.org/3/
+To download and install Python - <em>https://www.python.org/downloads/</em>
+<br>Python documentation - <em>https://docs.python.org/3/</em>
 
-To download and install Django - https://www.djangoproject.com/download/
-<br>Django documentation - https://docs.djangoproject.com/en/2.2/
+To download and install Django - <em>https://www.djangoproject.com/download/</em>
+<br>Django documentation - <em>https://docs.djangoproject.com/en/2.2/</em>
 
 # <h3>Project Description</h3>
 
