@@ -43,7 +43,7 @@ If you are using Windows OS then use <strong>python manage.py runserver</strong>
 
 10. To quit or terminate the localhost, press <strong>ctrl+c</strong> in terminal window.
 
-11. You can access the <em>admin panel</em> by appending <strong>/admin</strong> keyword in localhost url like:- <em>http://127.0.0.1:8000/admin/</em>
+11. You can access the <em>admin panel</em> by appending <strong>/admin</strong> keyword in localhost url like:- <em>http://127.0.0.1:8000/admin/</em>ni
 
 # <h4>Support</h4>
 
