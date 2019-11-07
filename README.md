@@ -1,16 +1,16 @@
 # <h2>crudexample<h2> 
 ## Django Sample Project
 
-<strong>Minimum requirements:-</strong> Python 3+, Django 2.2+, MySQL 5.5+ etc.
+<strong>Minimum requirements:-</strong> Python 3+, Django 2.2+, WAMP/LAMP/XAMPP, MySQL 5.5+ etc.
 
-<strong>Essentials instruction:-</strong> Installation is performed on Ubuntu 18.04. but if you're running a Windows system then use 'python' keyword in below listed commands. If you're running a Linux system then replace 'python' keyword by 'python3' and run those commands.
+<strong>Essentials instruction:-</strong> Installation is performed on Ubuntu 18.04. but if you're running a Windows system then use <strong>'python'</strong> keyword in below listed commands. If you're running a Linux system then replace <strong>'python'</strong> keyword by <strong>'python3'</strong> and run those commands.
 
 <h4>Procedure to run project on local server (Ubuntu OS):</h4>
 
 
 1. Download and keep this project anywhere in your file system.
 
-2. Navigate to the project folder and open it in terminal by right clicking and selecting the option "Open in Terminal"
+2. Navigate to the project folder and open it in terminal by right clicking and selecting the option <em>"Open in Terminal"</em>
 or directly you can navigate to the project folder by using terminal commands or windows cmd.
 
 3. If you have created python environment then activate it else you can skip this step.
