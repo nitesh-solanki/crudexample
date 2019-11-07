@@ -15,12 +15,12 @@ or directly you can navigate to the project folder by using terminal commands or
 
 3. If you have created python environment then activate it else you can skip this step.
 
-4. Run WAMP/XAMPP or whatever you have to use apache server to create localhost. By default LAMP (localhost) is always enabled on Linux systems. 
+4. Run <em>WAMP/XAMPP</em> or whatever you have to use apache server to create localhost. By default LAMP (localhost) is always enabled on Linux systems. 
 
-5. Go to this location 'http://localhost/phpmyadmin' in your browser to create a new database in phpmyadmin for your project. Create a new database and set the same name as database in Django settings file to use mysql as your database client for this project. (Django comes with sqlite3 as a default database)
+5. Go to this location 'http://localhost/phpmyadmin' in your browser to <em>create a new database</em> in phpmyadmin for your project. Create a new database and set the same name as database in Django settings file to use mysql as your database client for this project. (Django comes with <em>sqlite3</em> as a default database)
 
-    Under project folder, Go to this location Project-folder/settings.py (in my case - crudexample/settings.py) - scroll down and set the variables of 'DATABASES'. <br>
-    'ENGINE' is already set to mysql. Now set your system defined mysql credentials - 'USER', 'PASSWORD' & 'NAME'. 'NAME' will define database name here.
+    Under project folder, Go to this location <em>Project-folder/settings.py</em> (in my case - <em>crudexample/settings.py</em>) - scroll down and set the variables of <strong>'DATABASES'</strong>. <br>
+    <strong>'ENGINE'</strong> is already set to mysql. Now set your system defined mysql credentials - <strong>'USER', 'PASSWORD' & 'NAME'</strong>. <em>'NAME'</em> will define database name here.
 
 6. Now run these commands in your windows cmd or linux terminal -
 
