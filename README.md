@@ -25,5 +25,5 @@ You can access the admin panel by appending '/admin' keyword in localhost url li
 
 # <h3>Project Description<h3>
 
-This project is just for a demo purpose to show add, update, show and delete users at front-end.
+This project is just for a demo purpose to CRUD operations at front-end.
 
