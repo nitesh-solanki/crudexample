@@ -2,13 +2,13 @@
 ## Django Sample Project
 ### Project Description
 
-This project is just for a demo purpose to perform basic CRUD operations at Django front-end.
+This project is just for a demo purpose to perform basic CRUD operations at Django front-end.<hr>
 
 <strong>Minimum requirements:-</strong> Python 3+, Django 2.2+, WAMP/LAMP/XAMPP, MySQL 5.5+ etc.
 
 <strong>Essentials instruction:-</strong> Installation is performed on <em>Ubuntu 18.04</em>. but if you're running a Windows system then replace <strong>python3</strong> keyword by <strong>python</strong> and run those commands.
 
-<h4>Procedure to run project on local server (<em>Ubuntu OS</em>):</h4>
+### Procedure to run project on local server (<em>Ubuntu OS</em>):
 
 
 1. Download and keep this project anywhere in your file system.
@@ -52,7 +52,7 @@ or directly you can navigate to the project folder by using terminal commands or
 
 11. You can access the <em>admin panel</em> by appending <strong>/admin</strong> keyword in localhost url like - <em>http://127.0.0.1:8000/admin/</em>
 
-# <h4>Support</h4>
+### Support:
 
 To download and install Python - <em>https://www.python.org/downloads/</em>
 <br>Python documentation - <em>https://docs.python.org/3/</em>
