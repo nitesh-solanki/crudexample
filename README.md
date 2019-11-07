@@ -6,7 +6,7 @@ This project is just for a demo purpose to perform basic CRUD operations at Djan
 
 <strong>Minimum requirements:-</strong> Python 3+, Django 2.2+, WAMP/LAMP/XAMPP, MySQL 5.5+ etc.
 
-<strong>Essentials instruction:-</strong> Installation is performed on <em>Ubuntu 18.04</em>. but if you're running a Windows system then replace <strong>python3</strong> keyword by <strong>python</strong> and run those commands.
+<strong>Essentials instruction:-</strong> Installation is performed on <em>Ubuntu 18.04</em>. but if you're running a Windows system then replace <strong>python3</strong> keyword by <strong>python</strong> and run below commands.
 
 ### Procedure to run project on local server (<em>Ubuntu OS</em>):
 
@@ -50,7 +50,7 @@ or directly you can navigate to the project folder by using terminal commands or
 
 10. To quit or terminate the localhost, press <strong>ctrl+c</strong> in terminal window.
 
-11. You can access the <em>admin panel</em> by appending <strong>/admin</strong> keyword in localhost url like - <em>http://127.0.0.1:8000/admin/</em>
+11. You can access the <em>admin panel</em> by appending <strong>/admin</strong> keyword in localhost url like - <em>http://127.0.0.1:8000/admin/</em><hr>
 
 ### Support:
 
