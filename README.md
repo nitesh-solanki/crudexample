@@ -1,4 +1,4 @@
-# <h2>crudexample<h2> 
+# crudexample
 ## Django Sample Project
 
 <strong>Minimum requirements:-</strong> Python 3+, Django 2.2+, WAMP/LAMP/XAMPP, MySQL 5.5+ etc.
