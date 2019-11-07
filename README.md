@@ -15,7 +15,8 @@ or directly you can navigate to the project folder by using terminal commands.
 4. Run this command in terminal "python3 manage.py runserver" to initialize localhost. It will create a localhost server with any random port with 80*.
 
 5. Right click and open the localhost path http://127.0.0.1:8000/ 
-Sometimes port can be changed but it will be 80*. It will open and run this project in a browser window.
+
+Sometimes port can be changed but it will be similar to 80*. this will open and run the project in a browser window.
 
 6. Terminate the localhost by pressing ctrl+c in terminal window.
 
