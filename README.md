@@ -1,5 +1,4 @@
-# crudexample
-## Django Sample Project
+## Django Sample Project - crudexample
 ### Project Description
 
 This project is just for a demo purpose to install Django with MySQL and perform basic CRUD operations at front-end.<hr>
