@@ -42,12 +42,12 @@ or directly you can navigate to the project folder by using terminal commands or
 
     Note:- If you are using <em>Windows</em> OS then use <strong>python manage.py runserver</strong> command in cmd.
 
-9. Right click and open the localhost path http://127.0.0.1:8000/ 
+9. Right click and open the localhost path <em>http://127.0.0.1:8000/</em>
    Sometimes port can be changed but it will be similar to 80*. this will open and run the project in a browser window.
 
 10. To quit or terminate the localhost, press <strong>ctrl+c</strong> in terminal window.
 
-11. You can access the <em>admin panel</em> by appending <strong>/admin</strong> keyword in localhost url like - http://127.0.0.1:8000/admin/
+11. You can access the <em>admin panel</em> by appending <strong>/admin</strong> keyword in localhost url like - <em>http://127.0.0.1:8000/admin/</em>
 
 # <h4>Support</h4>
 
