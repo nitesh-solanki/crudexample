@@ -1,5 +1,8 @@
 # crudexample
 ## Django Sample Project
+### Project Description
+
+This project is just for a demo purpose to perform basic CRUD operations at Django front-end.
 
 <strong>Minimum requirements:-</strong> Python 3+, Django 2.2+, WAMP/LAMP/XAMPP, MySQL 5.5+ etc.
 
@@ -56,8 +59,3 @@ To download and install Python - <em>https://www.python.org/downloads/</em>
 
 To download and install Django - <em>https://www.djangoproject.com/download/</em>
 <br>Django documentation - <em>https://docs.djangoproject.com/en/2.2/</em>
-
-# <h3>Project Description</h3>
-
-This project is just for a demo purpose to perform basic CRUD operations at Django front-end.
-
