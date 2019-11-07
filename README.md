@@ -1,10 +1,9 @@
 # <h2>crudexample<h2> 
-##(Django Sample Project)
-note: work in progress
+## Django Sample Project
 
-Minimum requirements: Python 3+, Django 2.2+, MySQL 5.5+ etc.
+<strong>Minimum requirements:-</strong> Python 3+, Django 2.2+, MySQL 5.5+ etc.
 
-Essentials instruction - Installation is performed on Ubuntu 18.04. but if you're running a Windows system then use 'python' keyword in below listed commands. If you're running a Linux system then replace 'python' keyword by 'python3' and run those commands.
+<strong>Essentials instruction:-</strong> Installation is performed on Ubuntu 18.04. but if you're running a Windows system then use 'python' keyword in below listed commands. If you're running a Linux system then replace 'python' keyword by 'python3' and run those commands.
 
 <h4>Procedure to run project on local server (Ubuntu OS):</h4>
 
