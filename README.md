@@ -2,7 +2,7 @@
 ## Django Sample Project
 ### Project Description
 
-This project is just for a demo purpose to perform basic CRUD operations at Django front-end.<hr>
+This project is just for a demo purpose to install Django with MySQL and perform basic CRUD operations at front-end.<hr>
 
 <strong>Minimum requirements:-</strong> Python 3+, Django 2.2+, WAMP/LAMP/XAMPP, MySQL 5.5+ etc.
 
