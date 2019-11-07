@@ -1,4 +1,5 @@
-# <h2>crudexample<h2> (Django Sample Project)
+# <h2>crudexample<h2> 
+##(Django Sample Project)
 note: work in progress
 
 Minimum requirements: Python 3+, Django 2.2+, MySQL 5.5+, Ubuntu OS
